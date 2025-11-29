@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}\\shrm\\Scripts\\python.exe",
+    "python.analysis.indexing": true,
+    "python.testing.pytestArgs": [
+        "shrm"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
