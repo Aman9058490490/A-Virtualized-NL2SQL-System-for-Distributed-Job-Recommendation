@@ -7,6 +7,7 @@ venv311/
 .env
 .env.local
 .env.*.local
+.env.*
 __pycache__/
 *.pyc
 *.pyo
