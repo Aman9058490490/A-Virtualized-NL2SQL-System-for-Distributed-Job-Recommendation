@@ -4,3 +4,10 @@ env/
 venv311/
 .venv311/
 
+.env
+.env.local
+.env.*.local
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
